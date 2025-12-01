@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "夢見る少女じゃいられない",
+  "base_artist": "NANASE AIKAWA",
+  "createdAt": "2025-12-01T22:06:06.508579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢見る少女じゃいられない",
+      "artist": "NANASE AIKAWA",
+      "has_synced": true,
+      "path": "select/01_夢見る少女じゃいられない_NANASE_AIKAWA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/02_夢見る少女じゃいられない_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川七瀬",
+      "has_synced": false,
+      "path": "select/03_夢見る少女じゃいられない_相川七瀬.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢見る少女じゃいられない",
+      "artist": "Silent Siren",
+      "has_synced": true,
+      "path": "select/04_夢見る少女じゃいられない_Silent_Siren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_01_夢見る少女じゃいられない_相川_七瀬.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_02_夢見る少女じゃいられない_相川_七瀬.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_03_夢見る少女じゃいられない_相川_七瀬.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_04_夢見る少女じゃいられない_相川_七瀬.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_05_夢見る少女じゃいられない_相川_七瀬.txt"
+    }
+  ]
+}
