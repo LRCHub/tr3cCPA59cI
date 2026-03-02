@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "夢見る少女じゃいられない",
-  "base_artist": "NANASE AIKAWA",
-  "createdAt": "2025-12-01T22:06:06.508579Z",
+  "base_artist": "相川七瀬",
+  "createdAt": "2026-03-02T08:14:45.967305Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,38 +43,6 @@
       "artist": "相川 七瀬",
       "has_synced": false,
       "path": "select/pl_01_夢見る少女じゃいられない_相川_七瀬.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "夢見る少女じゃいられない",
-      "artist": "相川 七瀬",
-      "has_synced": false,
-      "path": "select/pl_02_夢見る少女じゃいられない_相川_七瀬.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "夢見る少女じゃいられない",
-      "artist": "相川 七瀬",
-      "has_synced": false,
-      "path": "select/pl_03_夢見る少女じゃいられない_相川_七瀬.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "夢見る少女じゃいられない",
-      "artist": "相川 七瀬",
-      "has_synced": false,
-      "path": "select/pl_04_夢見る少女じゃいられない_相川_七瀬.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "夢見る少女じゃいられない",
-      "artist": "相川 七瀬",
-      "has_synced": false,
-      "path": "select/pl_05_夢見る少女じゃいられない_相川_七瀬.txt"
     }
   ]
 }
